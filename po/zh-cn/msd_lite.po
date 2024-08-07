@@ -1,5 +1,5 @@
 msgid "msd_lite"
-msgstr "Msd_lite"
+msgstr "Msd-lite"
 
 msgid "msd_lite is a UDP-to-HTTP multicast traffic relay daemon, here you can configure the settings."
 msgstr "Msd Lite 是一个 UDP 到 HTTP 多播流量中继转发守护进程，你可以在此处配置参数。"
